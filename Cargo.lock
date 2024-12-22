@@ -722,7 +722,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "questdb"
+name = "questdb-client"
 version = "0.1.2"
 dependencies = [
  "reqwest",
